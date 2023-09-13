@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.third-div {
+    background-color: #000000;
+    height: 41rem;
+    width: 100%;
+
+    .bottom-data {
+        opacity: 1;
+        color: rgb(255, 255, 255);
+        //  font-family: "Urbanist-Black"; 
+        font-size: 60px;
+        letter-spacing: -1.6px;
+        text-align: center;
+        margin: 12rem;
+        margin-top: 16rem;
+
+
+
+    }
+    .btn{
+        width: 63%;
+        float: right;
+        
+        
+    }
+
+
+    .data {
+        h1 {
+            opacity: 1;
+            color: rgb(255, 255, 255);
+            //  font-family: "Urbanist-Black"; 
+            font-size: 60px;
+            font-style: normal;
+            font-weight: 600;
+            letter-spacing: -2.6px;
+            margin: 2rem;
+            width: 46%;
+            margin-left: 35rem;
+
+
+        }
+
+        p {
+            opacity: 1;
+            color: rgb(255, 255, 255);
+            //  font-family: "Urbanist-Black"; 
+            font-size: 30px;
+            font-style: normal;
+            letter-spacing: -1.6px;
+            margin: 2rem;
+            width: 46%;
+            margin-left: 35rem;
+
+        }
+    }
+
+    img {
+        height: 7rem;
+        width: 63%;
+        float: right;
+        display: flex;
+        margin-top: 3rem;
+
+    }
+
+    .third-inner-div {
+        background-color: #43c247;
+        height: 3rem;
+        width: 20rem;
+        margin-left: 22rem;
+
+    }
+}
