@@ -5,18 +5,18 @@ import './page.scss'
 
 const Page: React.FC = () => {
   // Storing input data
-//   const initialValues = {
-//     email: '',
-//   };
-//   const [data, setData] = useState(initialValues);
+  //   const initialValues = {
+  //     email: '',
+  //   };
+  //   const [data, setData] = useState(initialValues);
 
-//   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-//     setData({ ...data, [e.target.name]: e.target.value });
-//   };
+  //   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+  //     setData({ ...data, [e.target.name]: e.target.value });
+  //   };
 
-//   const display = () => {
-//     console.log(data);
-//   };
+  //   const display = () => {
+  //     console.log(data);
+  //   };
 
   return (
     <div className="extradiv">

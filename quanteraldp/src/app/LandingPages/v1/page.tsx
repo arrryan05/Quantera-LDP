@@ -19,6 +19,7 @@ import img11 from './assets/Group 4.png'
 import Counter from '../../../../modules/counter/page'
 import Learning from '../../../../modules/learning/page'
 import Superinvestor from '../../../../modules/superinvestor/page'
+import Smarter from '../../../../modules/smarter/page'
 
 
 export default function Landing() {
@@ -47,10 +48,10 @@ export default function Landing() {
     <div id='main'>
 
       {/* first div */}
-      <div id='first-div'>
-        <Image src={Img1} alt="top" />
+      <div style={{height:"100vh", width:"100vh"}}>
+      <Smarter/>
       </div>
-
+      
       {/* first div close */}
 
       {/* extra div */}
